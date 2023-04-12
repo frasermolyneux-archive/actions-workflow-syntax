@@ -36,4 +36,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          echo MY_REPO_VARIBLE is '${{ vars.MY_REPO_VAR }}' and MY_ENV_VARIBLE is '${{ vars.MY_ENV_VARIBLE }}'
+          echo MY_REPO_VARIBLE is '${{ vars.MY_REPO_VARIABLE }}' and MY_ENV_VARIBLE is '${{ vars.MY_ENV_VARIABLE }}'
